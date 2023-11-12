@@ -1501,7 +1501,9 @@ class TestHBNBCommand_update(unittest.TestCase):
 
 
 class TestHBNBCommand_count(unittest.TestCase):
-    """Unittests for testing count method of HBNB comand interpreter."""
+    """
+    Unittests for testing count method of HBNB comand interpreter.
+    """
 
     @classmethod
     def setUp(self):
