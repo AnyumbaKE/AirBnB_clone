@@ -11,9 +11,7 @@ from time import sleep
 
 
 class TestUser_instantiation(unittest.TestCase):
-    """
-    Unittests for testing instantiation of the User class.
-    """
+    """Unittests for testing instantiation of the User class."""
 
     def test_no_args_instantiates(self):
         self.assertEqual(User, type(User()))

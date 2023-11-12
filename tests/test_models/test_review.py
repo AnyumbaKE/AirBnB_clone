@@ -144,9 +144,7 @@ class TestReview_save(unittest.TestCase):
 
 
 class TestReview_to_dict(unittest.TestCase):
-    """
-    Unittests for testing to_dict method of the Review class.
-    """
+    """Unittests for testing to_dict method of the Review class."""
 
     def test_to_dict_type(self):
         self.assertTrue(dict, type(Review().to_dict()))
