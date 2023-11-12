@@ -13,9 +13,7 @@ from models.review import Review
 
 
 class FileStorage:
-    """
-    Represent an abstracted storage engine.
-    """
+    """Represent an abstracted storage engine."""
 
     __file_path = "file.json"
     __objects = {}
