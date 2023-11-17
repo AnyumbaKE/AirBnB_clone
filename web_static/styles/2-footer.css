@@ -1,0 +1,15 @@
+/*
+* === Header style ===
+*/
+
+/* Footer style */
+footer {
+    background-color: #00ff00;
+    height: 60px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    display: flex;
+    bottom: 0;
+}
