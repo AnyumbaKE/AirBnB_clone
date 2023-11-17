@@ -3,7 +3,7 @@
  */
 
  /* Filters style */
- .filters {
+ section.filters {
     background-color: #ffffff;
     height: 70px;
     width: 100%;
@@ -12,7 +12,7 @@
  }
 
 /* search style */
-. filters button {
+section.filters button {
     background: #ff5a5f;
     font-size: 18px;
     color: #ffffff;
@@ -25,6 +25,6 @@
 }
 
 /* search button hover opacity */
-.filters button:hover {
+section.filters button:hover {
     background-color: rgba(255, 90, 95, .9);
 }
