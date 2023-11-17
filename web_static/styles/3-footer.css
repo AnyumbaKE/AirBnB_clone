@@ -12,4 +12,5 @@ footer {
     align-items: center;
     position: absolute;
     display: flex;
+    border-top: 1px solid #cccccc;
 }
