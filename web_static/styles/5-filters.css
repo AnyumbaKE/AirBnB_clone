@@ -22,7 +22,6 @@
   background-color: rgba(255, 90, 95, .9);
 }
 
-/* Locations and amenities style */
 .locations,
 .amenities {
   display: inline-block;
