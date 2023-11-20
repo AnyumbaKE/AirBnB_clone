@@ -7,7 +7,6 @@
   width: 100%;
 }
 
-/* Search button style */
 .filters button {
   background: #ff5a5f;
   border: none;
@@ -20,12 +19,10 @@
   width: 20%;
 }
 
-/* Search button hover opacity */
 .filters button:hover {
   background-color: rgba(255, 90, 95, .9);
 }
 
-/* Locations and amenities style */
 .filters .locations,
 .filters .amenities {
   display: inline-block;
@@ -34,18 +31,15 @@
   width: 25%;
 }
 
-/* Locations border */
 .filters .locations {
   border-right: 1px solid #ddd;
 }
 
-/* Locations and amenities hover opacity */
 .filters .locations:hover,
 .filters .amenities:hover {
   background-color: #fafafa;
 }
 
-/* Locations and amenities popover menu */
 .filters .popover {
   background-color: #fafafa;
   border: 1px solid #ddd;
@@ -66,21 +60,14 @@
   padding: 6px 0 6px 0;
 }
 
-/* Locations list element margin */
 .filters .locations li {
   margin: 0 auto 6px 3em;
 }
 
-/* Amenities list element margin */
 .filters .amenities li {
   margin: 12px auto 12px 30px;
 }
 
-/*
- * --- Filters header style ---
- */
-
-/* Header box sizing */
 .filters h2,
 .filters h3,
 .filters h4 {
@@ -89,14 +76,12 @@
   box-sizing: border-box;
 }
 
-/* Header 2 style */
 .filters h2 {
   font-size: 16px;
   font-weight: bold;
   margin: 12px auto 0 30px;
 }
 
-/* Header 3 style */
 .filters h3 {
   font-size: 1.17em;
   font-weight: 600;
@@ -104,7 +89,6 @@
   padding: 15.5px 0 0 30px;
 }
 
-/* Header 4 style */
 .filters h4 {
   font-size: 14px;
   font-weight: 400;
