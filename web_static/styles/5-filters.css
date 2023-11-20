@@ -32,15 +32,6 @@
 .locations {
   border-right: 1px solid #ddd;
 }
-
-.filters h2,
-.filters h3,
-.filters h4 {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
 .filters h3 {
   font-size: 1.17em;
   font-weight: 600;
@@ -53,4 +44,11 @@
   font-weight: 400;
   height: 50%;
   padding: 4.5px 0 12px 30px;
+}
+
+.filters h3,
+.filters h4 {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
